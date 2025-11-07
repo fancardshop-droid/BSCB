@@ -1,5 +1,3 @@
-# BSCB
-Online Bank
 ```bash
 git clone https://github.com/fancardshop-droid/bluestone-capital-bank.git
 cd bluestone-capital-bank
